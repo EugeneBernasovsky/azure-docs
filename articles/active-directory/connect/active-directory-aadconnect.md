@@ -60,7 +60,7 @@ You can find the download for Azure AD Connect on [Microsoft Download Center](ht
 ### Next steps to Install Azure AD Connect
 |Topic |Link|  
 | --- | --- |
-|Download Azure AD Connect | [Download Azure AD Connect](http://go.microsoft.com/fwlink/?LinkId=615771)|
+|Download Azure AD Connect | [Download Azure AD Connect](https://www.microsoft.com/en-us/download/details.aspx?id=47594)|
 |Install using Express settings | [Express installation of Azure AD Connect](./active-directory-aadconnect-get-started-express.md)|
 |Install using Customized settings | [Custom installation of Azure AD Connect](./active-directory-aadconnect-get-started-custom.md)|
 |Upgrade from DirSync | [Upgrade from Azure AD sync tool (DirSync)](./active-directory-aadconnect-dirsync-upgrade-get-started.md)|
